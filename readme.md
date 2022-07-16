@@ -10,7 +10,7 @@ Azure - portal.azure.com
 Azure DevOps - https://azure.microsoft.com/en-us/services/devops/?nav=min
 
 # Step 1: Git
-Learn Git with this repo: https://github.com/aspnetboilerplate/questions-answers
+Learn Git with this repo: https://github.com/MicrosoftDocs/pipelines-dotnet-core
 
 You'll be using this repo for the duration of the project. It's a sample project that we can deploy the Azure Cloud.
 
@@ -23,13 +23,17 @@ Clone and create a few new folders and files:
   
 Commit this new folders/files to main
 
-# Step 2: Azure Pipelines - Create a pipeline
+# Step 2: Azure Pipelines - Create a Org/Project/Pipeline
+
+https://docs.microsoft.com/en-us/azure/devops/organizations/projects/connect-to-projects?toc=%2Fazure%2Fdevops%2Fget-started%2Ftoc.json&bc=%2Fazure%2Fdevops%2Fget-started%2Fbreadcrumb%2Ftoc.json&view=azure-devops&tabs=visual-studio-2019
 
 # Step 3: Azure Pipelines - Create Artifact
 
-## Getting started with Drag and Drop
+https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/dotnet-core?view=azure-devops&tabs=dotnetfive
 
-## Refactor EVERYTHING WITH YAML
+## YAML and Drag and Drop
+
+## Refactor EVERYTHING WITH 
 
 # Step 4: Terraform - Provision Infrastructure
 

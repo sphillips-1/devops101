@@ -23,10 +23,24 @@ Clone and create a few new folders and files:
   
 Commit this new folders/files to main
 
-# Step 2: Azure Pipelines - Create Artifact
+# Step 2: Azure Pipelines - Create a pipeline
 
-# Step 3: Terraform - Provision Infrastructure
+# Step 3: Azure Pipelines - Create Artifact
 
-# Step 4: Azure Pipelines - Provision Infrastructure
+## Getting started with Drag and Drop
 
-# Step 5: Azure Pipelines - Deploy Artifact
+## Refactor EVERYTHING WITH YAML
+
+# Step 4: Terraform - Provision Infrastructure
+
+# Step 5: Azure Pipelines - Provision Infrastructure
+
+# Step 6: Azure Pipelines - Deploy Artifact
+
+
+# Step 7: Terraform - Multiple Environments
+
+# Step 8: Azure Pipelines - Multiple Environments
+
+
+

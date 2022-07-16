@@ -11,6 +11,9 @@ Azure DevOps - https://azure.microsoft.com/en-us/services/devops/?nav=min
 
 # Step 1: Git
 Learn Git with this repo: https://github.com/aspnetboilerplate/questions-answers
+
+You'll be using this repo for the duration of the project. It's a sample project that we can deploy the Azure Cloud.
+
 Fork the repo into your personal GitHub account
 Clone and create a few new folders and files:
 - Folder: AzurePipelines
